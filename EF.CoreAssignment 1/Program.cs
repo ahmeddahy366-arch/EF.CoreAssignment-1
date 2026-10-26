@@ -4,6 +4,9 @@
     {
         static void Main(string[] args)
         {
+             using AppContext context = new AppContext();
+
+
         }
     }
 }
